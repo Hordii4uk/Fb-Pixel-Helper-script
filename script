@@ -1,0 +1,2 @@
+fbq('track', 'Purchase', { content_type: 'product_group', content_ids: [X] , value: Y, 
+num_items: 1, currency: 'USD', })
